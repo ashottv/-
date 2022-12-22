@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+html, body{
+    font-family: 'Montserrat', sans-serif;
+    background: #FFFFFF;
+    color: rgba(0, 0, 0, 0.87);
+}
+section{
+    margin-bottom: 85px;
+}
+p{
+    font-size: 18px;
+line-height: 28px;
+}
+
+.conteiner{width: 100%;
+    max-width: 1448px;
+    margin: auto;
+    padding: 0 100px;
+
+}
